@@ -2,5 +2,4 @@ test.json
 test_generated
 test_generated.c
 
-.gitignore
 .git/
